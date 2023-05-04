@@ -40,7 +40,8 @@ class MyApp extends StatelessWidget {
         '/': (context) => const TodoPage(),
       },
       theme: ThemeData(
-        colorSchemeSeed: Colors.blue,
+        colorSchemeSeed: Color(0xFFF5820D),
+        brightness: Brightness.dark,
         useMaterial3: true,
       ),
     );

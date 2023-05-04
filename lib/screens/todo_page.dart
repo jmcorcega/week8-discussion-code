@@ -26,7 +26,7 @@ class _TodoPageState extends State<TodoPage> {
 
     return Scaffold(
       appBar: AppBar(
-        title: Text("Todo"),
+        title: Text("🔥 To-Do"),
       ),
       body: StreamBuilder(
         stream: todosStream,
