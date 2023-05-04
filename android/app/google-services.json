@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "477580312539",
+    "project_id": "cmsc23-todo-app-jmcorcega",
+    "storage_bucket": "cmsc23-todo-app-jmcorcega.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477580312539:android:e5c71aecfcc218e320f1fe",
+        "android_client_info": {
+          "package_name": "com.example.week7_networking_discussion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "477580312539-208p7j9nfvfns3eul064fcbe8ni8olgq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApeXVKqc65OmMzgAB5i1vjeYNxdWiwoKg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "477580312539-208p7j9nfvfns3eul064fcbe8ni8olgq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
